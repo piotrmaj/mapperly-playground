@@ -10,6 +10,7 @@ namespace mapperly_playground
             target.Id = customer.Id.ToString();
             target.Name = customer.Name;
             target.Address = customer.Address;
+            target.Age = customer.Age;
             return target;
         }
 
@@ -19,6 +20,7 @@ namespace mapperly_playground
             target.Id = global::System.Guid.Parse(dto.Id);
             target.Name = dto.Name;
             target.Address = dto.Address;
+            target.Age = dto.Age;
             return target;
         }
     }

@@ -7,6 +7,7 @@ namespace mapperly_playground
         public Guid Id { get; set; }
         public string Name { get; set; }
         public string Address { get; set; }
+        public int Age { get; set; }
     }
 
     public class CustomerDto
@@ -14,6 +15,7 @@ namespace mapperly_playground
         public string Id { get; set; }
         public string Name { get; set; }
         public string Address { get; set; }
+        public int Age { get; set; }
     }
 
     [Mapper]
