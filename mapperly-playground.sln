@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mapperly-playground", "mapperly-playground\mapperly-playground.csproj", "{E8AAA17F-EC8B-4862-96D9-812CC35FF017}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8AAA17F-EC8B-4862-96D9-812CC35FF017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8AAA17F-EC8B-4862-96D9-812CC35FF017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8AAA17F-EC8B-4862-96D9-812CC35FF017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8AAA17F-EC8B-4862-96D9-812CC35FF017}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A3BC0D5-8E36-435E-B255-29F99694ADD9}
+	EndGlobalSection
+EndGlobal
