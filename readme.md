@@ -1,0 +1,1 @@
+# Playground project for https://github.com/riok/mapperly
